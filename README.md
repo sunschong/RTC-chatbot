@@ -1,1 +1,3 @@
-# RTC-chatbot
+# Rewriting the Code (RTC) chatbot
+
+RTC leadership often struggles with a huge volume of repetitive questions from students about different RTC procedures. There is room to automate this process so that leaders aren’t bogged down with menial questions and so that there is a single source of information for common questions that can get people instantaneous answers. On the backend, we could track common questions and make sure that the chat bot is updated with the most relevant information. A simpler scope project would have this learning be manual, a more complex project could use some AI in the background.
