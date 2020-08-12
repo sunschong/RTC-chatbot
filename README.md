@@ -17,6 +17,6 @@ A chatbot that is presentable and accessible. The goal is for it to be efficient
 - Multiple questions
 
 ## Our Approach
-A rule-based chatbot that uses Python to match appropriate responses to questions and Firebase for data storage and retrieval.
+A rule-based chatbot that uses Python to match appropriate responses to questions and Firebase for data storage and retrieval. With more time for the project, some modifications could be made to improve the chatbot, such as retrieving the synonyms from the database instead and changing the way we check for keywords.
 
 
